@@ -122,11 +122,10 @@ Right now: researching ransomware detection using hardware performance counters 
 
 ### Featured Work
 
-<div align="center">
-
-[![K8s Autopilot](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=k8&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/k8)
-&nbsp;
-[![AutoClean AI](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=AutoCleanAi&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/AutoCleanAi)
+| Project | Description | Tech |
+|:---|:---|:---|
+| [**K8s Autopilot**](https://github.com/vedantberiwal23/k8) | ML pipeline predicting Kubernetes pod failures with automated remediation | Python · Gradient Boosting · Isolation Forest |
+| [**AutoClean AI**](https://github.com/vedantberiwal23/AutoCleanAi) | AI-based duplicate file detection using vector embeddings & semantic matching | Python · Sentence Transformers · Clustering |
 
 </div>
 
