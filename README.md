@@ -108,7 +108,7 @@ Right now: researching ransomware detection using hardware performance counters 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/vedantberiwal23/vedantberiwal23/main/dist/trophy.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=vedantberiwal23&theme=tokyonight&no-bg=true&no-frame=true&row=1" />
 
 </div>
 
