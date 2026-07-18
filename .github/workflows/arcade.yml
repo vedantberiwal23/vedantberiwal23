@@ -1,23 +1,34 @@
-name: Pacman Animation
+name: Generate arcade animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
 
-permissions:
-  contents: write
+  push:
+    branches:
+    - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: hugomd/pacman-contribution-graph@master
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: vedantberiwal23
-          gif_out_path: dist/pacman.gif
-      - uses: stefanzweifel/git-auto-commit-action@v4
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
+
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          commit_message: Generate Pacman
-          branch: output
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
