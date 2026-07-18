@@ -5,10 +5,10 @@
 <br/>
 
 <a href="https://linkedin.com/in/vedant-beriwal-b03a9027b">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
 </a>
 <a href="mailto:vedantberiwal23@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=vedantberiwal23&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" height="25" alt="Profile Views" />
 
@@ -108,7 +108,7 @@ Right now: researching ransomware detection using hardware performance counters 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vedantberiwal23&theme=tokyonight&no-bg=true&no-frame=true&column=-1" />
+<img src="https://raw.githubusercontent.com/vedantberiwal23/vedantberiwal23/main/dist/trophy.svg" />
 
 </div>
 
@@ -128,10 +128,9 @@ Right now: researching ransomware detection using hardware performance counters 
 
 <div align="center">
 
-[![K8s Autopilot](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=k8s-autopilot&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/k8s-autopilot)
-[![CareerCompass](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=career-compass&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/career-compass)
-
-[![AutoClean AI](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=autoclean-ai&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/autoclean-ai)
+[![K8s Autopilot](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=k8&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/k8)
+&nbsp;
+[![AutoClean AI](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=AutoCleanAi&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/AutoCleanAi)
 
 </div>
 
