@@ -1,52 +1,155 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=660&lines=Hi%2C+I'm+Vedant+Beriwal;Computer+Science+Engineer;AI+%2F+ML+%7C+Full-Stack+Development;Research+%7C+Systems+%7C+Cloud" alt="Typing SVG" />
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<br/>
+
+<a href="https://linkedin.com/in/vedant-beriwal-b03a9027b">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+</a>
+<a href="mailto:vedantberiwal23@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=vedantberiwal23&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" height="25" alt="Profile Views" />
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+### About
+
+CS undergrad who builds ML systems, breaks Kubernetes clusters, and gets papers published — sometimes all in the same week.
+
+Right now: researching ransomware detection using hardware performance counters at **Shiv Nadar IoE**, and building production systems that sit at the boundary of AI and infrastructure. Previously data science at **Tiger Analytics**.
+
+*Always interested in hard problems at the intersection of machine learning and systems engineering.*
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
+
+<br/><br/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
+
+<br/><br/>
+
+**Full-Stack**
+
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite" />
+
+<br/><br/>
+
+**Cloud / DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vedantberiwal23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantberiwal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vedantberiwal23&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantberiwal23&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vedantberiwal23&theme=tokyonight&no-bg=true&no-frame=true&column=-1" />
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+### Contribution Snake
 
-###
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vedantberiwal23/vedantberiwal23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+### Featured Work
+
+<div align="center">
+
+[![K8s Autopilot](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=k8s-autopilot&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/k8s-autopilot)
+[![CareerCompass](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=career-compass&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/career-compass)
+
+[![AutoClean AI](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=autoclean-ai&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/autoclean-ai)
+
+</div>
+
+---
+
+### Publications
+
+**Family-Based Digital Nudge Framework for Emotional Support of Working Women (FDN-EW)**  
+Taylor & Francis indexed journal (in press) · IC-SEDE 2025, Chitkara University
+
+**AI & ML for Smart Manufacturing — Neural Networks, NLP, GANs & Cognitive Systems**  
+Peer-reviewed journal (accepted)
+
+---
+
+<div align="center">
+
+*Open to SWE / ML internship and research collaboration opportunities*  
+vedantberiwal23@gmail.com
+
+</div>
