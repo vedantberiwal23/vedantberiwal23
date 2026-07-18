@@ -106,10 +106,6 @@ Right now: researching ransomware detection using hardware performance counters 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantberiwal23&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vedantberiwal23&theme=tokyonight&no-bg=true&no-frame=true&row=1" />
-
 </div>
 
 ---
