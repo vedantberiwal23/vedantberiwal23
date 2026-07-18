@@ -118,7 +118,7 @@ Right now: researching ransomware detection using hardware performance counters 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vedantberiwal23/vedantberiwal23/output/dist/pacman.gif" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/vedantberiwal23/vedantberiwal23/pacman-output/dist/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 </div>
 
