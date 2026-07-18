@@ -1,16 +1,139 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vedantberiwal23/vedantberiwal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=660&lines=Hi%2C+I'm+Vedant+Beriwal;Computer+Science+Engineer;AI+%2F+ML+%7C+Full-Stack+Development;Research+%7C+Systems+%7C+Cloud" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com/in/vedant-beriwal-b03a9027b">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+</a>
+<a href="mailto:vedantberiwal23@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=vedantberiwal23&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" height="25" alt="Profile Views" />
+
+</div>
+
+---
+
+### About
+
+B.Tech Computer Science undergraduate at **VIT Vellore** (CGPA 8.25/10, Class of 2027), with research experience in hardware-aware malware detection at **Shiv Nadar IoE**, a data science internship at **Tiger Analytics**, and **2 accepted publications** in peer-reviewed journals.
+
+Building at the intersection of systems ML, full-stack engineering, and cloud infrastructure — from Kubernetes anomaly detection to production-grade React applications.
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
+
+<br/><br/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
+
+<br/><br/>
+
+**Full-Stack**
+
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite" />
+
+<br/><br/>
+
+**Cloud / DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+<img width="8" />
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vedantberiwal23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantberiwal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vedantberiwal23&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantberiwal23&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+### Featured Work
+
+<div align="center">
+
+[![K8s Autopilot](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=k8s-autopilot&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/k8s-autopilot)
+[![CareerCompass](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=career-compass&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/career-compass)
+
+[![AutoClean AI](https://github-readme-stats.vercel.app/api/pin/?username=vedantberiwal23&repo=autoclean-ai&theme=tokyonight&hide_border=true)](https://github.com/vedantberiwal23/autoclean-ai)
+
+</div>
+
+---
+
+### Publications
+
+**Family-Based Digital Nudge Framework for Emotional Support of Working Women (FDN-EW)**  
+Taylor & Francis indexed journal (in press) · IC-SEDE 2025, Chitkara University
+
+**AI & ML for Smart Manufacturing — Neural Networks, NLP, GANs & Cognitive Systems**  
+Peer-reviewed journal (accepted)
+
+---
+
+<div align="center">
+
+*Open to SWE / ML internship and research collaboration opportunities*  
+vedantberiwal23@gmail.com
+
+</div>
