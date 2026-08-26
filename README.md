@@ -4,12 +4,8 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/vedant-beriwal-b03a9027b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
-</a>
-<a href="mailto:vedantberiwal23@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
-</a>
+<a href="https://linkedin.com/in/vedant-beriwal-b03a9027b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
+<a href="mailto:vedantberiwal23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" /></a>
 <img src="https://komarev.com/ghpvc/?username=vedantberiwal23&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" height="25" alt="Profile Views" />
 
 </div>
@@ -94,17 +90,13 @@ Right now: researching ransomware detection using hardware performance counters 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vedantberiwal23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedantberiwal23&theme=tokyonight" height="200" alt="Vedant's GitHub stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantberiwal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantberiwal23&theme=tokyonight" height="200" alt="Vedant's top languages by repository" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vedantberiwal23&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantberiwal23&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantberiwal23&theme=tokyonight" width="700" alt="Vedant's GitHub contribution details" />
 
 </div>
 
@@ -126,8 +118,6 @@ Right now: researching ransomware detection using hardware performance counters 
 |:---|:---|:---|
 | [**K8s Autopilot**](https://github.com/vedantberiwal23/k8) | ML pipeline predicting Kubernetes pod failures with automated remediation | Python · Gradient Boosting · Isolation Forest |
 | [**AutoClean AI**](https://github.com/vedantberiwal23/AutoCleanAi) | AI-based duplicate file detection using vector embeddings & semantic matching | Python · Sentence Transformers · Clustering |
-
-</div>
 
 ---
 
