@@ -86,19 +86,14 @@ Right now: researching ransomware detection using hardware performance counters 
 
 ---
 
-### GitHub Stats
+### Engineering Snapshot
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedantberiwal23&theme=tokyonight" height="200" alt="Vedant's GitHub stats" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantberiwal23&theme=tokyonight" height="200" alt="Vedant's top languages by repository" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantberiwal23&theme=tokyonight" width="700" alt="Vedant's GitHub contribution details" />
-
-</div>
+| Area | Current focus |
+|:---|:---|
+| **AI / ML** | Applied ML, anomaly detection, vector embeddings, and model evaluation |
+| **Systems** | Kubernetes reliability, observability, and automated remediation |
+| **Product Engineering** | Full-stack applications backed by Python, React, and modern data platforms |
+| **Research** | Ransomware detection using hardware performance counters |
 
 ---
 
